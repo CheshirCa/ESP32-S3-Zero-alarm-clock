@@ -1,5 +1,11 @@
 # ESP32-S3-Zero Alarm Clock / Будильник на ESP32-S3-Zero
 
+![Clock](https://github.com/CheshirCa/ESP32-S3-Zero-alarm-clock/blob/main/doc/Clock.jpg)
+![Clock from back](https://github.com/CheshirCa/ESP32-S3-Zero-alarm-clock/blob/main/doc/Back(Active_Buzzer).jpg)
+![Clock - Info screen](https://github.com/CheshirCa/ESP32-S3-Zero-alarm-clock/blob/main/doc/Info1.jpg)
+![Clock - weather](https://github.com/CheshirCa/ESP32-S3-Zero-alarm-clock/blob/main/doc/Weather.jpg)
+![Clock - Schematic Diagram](https://github.com/CheshirCa/ESP32-S3-Zero-alarm-clock/blob/main/doc/ClockSchematicDiagram.jpg)
+
 [English](#english) | [Русский](#russian)
 
 ---
